@@ -38,10 +38,20 @@ El sistema permite:
 
 ## Ejecución
 
-Compilar:
+Para ejecutar el programa en Java se deben seguir los siguientes pasos:
 
-Ejecutar:
+### 1. Compilar el programa
+
+```
+javac Pila.java EditorTexto.java
+```
+
+### 2. Ejecutar el programa
+
+```
+java EditorTexto
+```
 
 ## Autor
 
-Johan
+Johan Andres Ossa 
